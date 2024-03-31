@@ -1,0 +1,11 @@
+
+.user-card {
+    width: 250px; 
+    height: 350px; 
+  }
+  
+  .user-avatar {
+    max-width: 100%; 
+    height: auto; 
+  }
+  
